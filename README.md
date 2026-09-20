@@ -1,6 +1,6 @@
 ﻿# Face recognition using cv2
 # 1) <i>pip install opencv-python</i>
-# 2) pull this repository in your project
+# 2) <em>pull this repository in your project</em>
 # 3) launch your project
 
 OpenCV (Open Source Computer Vision Library) is a free, open-source software library packed with more than 2,500 optimized algorithms for real-time computer vision, image processing, and machine learning.
