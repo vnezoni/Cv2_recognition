@@ -12,4 +12,4 @@ I added a black-and-white image as an example of what the program sees when proc
 
 If detecting sometimes work bad, try to change minNeighbours(last parametr of <em>face_cascade.detectMultiScale</em>) to bigger number
 
-# To stop the program click button <kbd>Q</kbd>
+# To stop the program click button <b><kbd>q</kbd></b>
