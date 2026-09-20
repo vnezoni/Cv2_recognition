@@ -11,3 +11,5 @@ If you want to change the detected object use:
 I added a black-and-white image as an example of what the program sees when processing a frame using cascades.
 
 If detecting sometimes work bad, try to change minNeighbours(last parametr of <em>face_cascade.detectMultiScale</em>) to bigger number
+
+# To stop the program click button <kbd>Q</kbd>
