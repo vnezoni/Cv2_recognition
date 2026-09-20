@@ -1,5 +1,5 @@
 ﻿# Face recognition using cv2
-# 1) pip install opencv-python
+# 1) <i>pip install opencv-python</i>
 # 2) pull this repository in your project
 # 3) launch your project
 
@@ -7,4 +7,4 @@ OpenCV (Open Source Computer Vision Library) is a free, open-source software lib
 
 In this repository I used haar's cascades which allow detect a specific object in the frame.
 If you want to change the detected object use:
-# object_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + '(object)')
+# <i>object_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + '(object)')</i>
